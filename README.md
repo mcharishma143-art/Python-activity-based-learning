@@ -8,6 +8,8 @@
 8.Text Compression Using Character RunsIntegrated E-Commerce Order Processing and
 9.Reconciliation,
 10.Tuple-Based Transaction Audit
+
+
 Name:charishma
 roll-no:26000962
 breanch:CSM
